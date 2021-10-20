@@ -1,0 +1,16 @@
+.App {
+  font-family: sans-serif;
+  text-align: center;
+}
+
+.mainGrid {
+  border: 2px solid blue;
+  display: grid;
+  grid-template-columns: 1fr 1fr 1fr;
+}
+
+.grid {
+  border: 2px solid blue;
+  padding: 50px;
+  margin: 0px;
+}
